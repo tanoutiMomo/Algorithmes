@@ -6,7 +6,7 @@
  * sinon the given number.
  */
 
-package org.algorithmes.fizzbuzz;
+package org.algorithmes.codingame;
 
 public class FizzBuzzHelper {
 

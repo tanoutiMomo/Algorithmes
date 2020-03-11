@@ -1,4 +1,4 @@
-package org.algorithmes.fizzbuzz;
+package org.algorithmes.codingame;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

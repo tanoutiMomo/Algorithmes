@@ -2,17 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb038899-e30e-4687-8112-49d00ddd4663" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/algorithmes/primefactors/PrimeFactorHelperTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/algorithmes/sublist/SubListHelperTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/algorithmes/codingame/DanceSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/algorithmes/fizzbuzz/BracketMatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/algorithmes/codingame/BracketMatcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/algorithmes/fizzbuzz/FizzBuzzHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/algorithmes/codingame/FizzBuzzHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/algorithmes/fizzbuzz/FizzBuzzHelperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/algorithmes/codingame/FizzBuzzHelperTest.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -28,49 +30,6 @@
     <expand />
     <select />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/algorithmes/fizzbuzz/FizzBuzzHelper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/org/algorithmes/fizzbuzz/FizzBuzzHelperTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="603">
-              <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/org/algorithmes/sublist/SubListHelperTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/org/algorithmes/primefactors/PrimeFactorHelperTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -81,40 +40,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/org/algorithmes/fizzbuzz/FizzBuzzHelper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/algorithmes/fizzbuzz/FizzBuzzHelper.java" />
-        <option value="$PROJECT_DIR$/src/test/java/org/algorithmes/fizzbuzz/FizzBuzzHelperTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/org/algorithmes/sublist/SubListHelperTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/org/algorithmes/primefactors/PrimeFactorHelperTest.java" />
-      </list>
-    </option>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Algoritmes" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1Z0Cn17IdfThLvjJwch5cgmohKT" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -141,12 +70,12 @@
       <module name="Algoritmes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.algorithmes.fizzbuzz.*" />
+          <option name="PATTERN" value="org.algorithmes.codingame.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.algorithmes.fizzbuzz" />
-      <option name="MAIN_CLASS_NAME" value="org.algorithmes.fizzbuzz.FizzBuzzHelperTest" />
+      <option name="PACKAGE_NAME" value="org.algorithmes.codingame" />
+      <option name="MAIN_CLASS_NAME" value="org.algorithmes.codingame.FizzBuzzHelperTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -156,12 +85,12 @@
       <module name="Algoritmes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.algorithmes.fizzbuzz.*" />
+          <option name="PATTERN" value="org.algorithmes.codingame.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.algorithmes.fizzbuzz" />
-      <option name="MAIN_CLASS_NAME" value="org.algorithmes.fizzbuzz.FizzBuzzHelperTest" />
+      <option name="PACKAGE_NAME" value="org.algorithmes.codingame" />
+      <option name="MAIN_CLASS_NAME" value="org.algorithmes.codingame.FizzBuzzHelperTest" />
       <option name="METHOD_NAME" value="sould_return_BUZZ" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -172,12 +101,12 @@
       <module name="Algoritmes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.algorithmes.fizzbuzz.*" />
+          <option name="PATTERN" value="org.algorithmes.codingame.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.algorithmes.fizzbuzz" />
-      <option name="MAIN_CLASS_NAME" value="org.algorithmes.fizzbuzz.FizzBuzzHelperTest" />
+      <option name="PACKAGE_NAME" value="org.algorithmes.codingame" />
+      <option name="MAIN_CLASS_NAME" value="org.algorithmes.codingame.FizzBuzzHelperTest" />
       <option name="METHOD_NAME" value="sould_return_FIZZBUZZ" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -188,12 +117,12 @@
       <module name="Algoritmes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.algorithmes.fizzbuzz.*" />
+          <option name="PATTERN" value="org.algorithmes.codingame.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.algorithmes.fizzbuzz" />
-      <option name="MAIN_CLASS_NAME" value="org.algorithmes.fizzbuzz.FizzBuzzHelperTest" />
+      <option name="PACKAGE_NAME" value="org.algorithmes.codingame" />
+      <option name="MAIN_CLASS_NAME" value="org.algorithmes.codingame.FizzBuzzHelperTest" />
       <option name="METHOD_NAME" value="sould_return_NULL" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -204,12 +133,12 @@
       <module name="Algoritmes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.algorithmes.fizzbuzz.*" />
+          <option name="PATTERN" value="org.algorithmes.codingame.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.algorithmes.fizzbuzz" />
-      <option name="MAIN_CLASS_NAME" value="org.algorithmes.fizzbuzz.FizzBuzzHelperTest" />
+      <option name="PACKAGE_NAME" value="org.algorithmes.codingame" />
+      <option name="MAIN_CLASS_NAME" value="org.algorithmes.codingame.FizzBuzzHelperTest" />
       <option name="METHOD_NAME" value="sould_return_string" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -238,6 +167,7 @@
       <updated>1569167156242</updated>
       <workItem from="1569167160264" duration="8896000" />
       <workItem from="1569751547659" duration="2663000" />
+      <workItem from="1583966789707" duration="389000" />
     </task>
     <servers />
   </component>
@@ -273,128 +203,18 @@
       <configuration name="FizzBuzzHelperTest" configurationId="JUnit" />
     </history-entry>
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11559000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32936078" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" weight="0.32995737" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" weight="0.32995737" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" />
-      <window_info anchor="bottom" id="Database Changes" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Theme Preview" order="1" />
-      <window_info anchor="right" id="Capture Analysis" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Maven" order="4" weight="0.32995737" />
-      <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.3.2/junit-jupiter-api-5.3.2.jar!/org/junit/jupiter/api/Test.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/algorithmes/fizzbuzz/FizzBuzzHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/org/algorithmes/fizzbuzz/FizzBuzzHelperTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="603">
-          <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/org/algorithmes/sublist/SubListHelperTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/org/algorithmes/primefactors/PrimeFactorHelperTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

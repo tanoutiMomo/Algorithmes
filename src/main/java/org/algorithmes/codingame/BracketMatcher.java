@@ -1,4 +1,4 @@
-package org.algorithmes.fizzbuzz;
+package org.algorithmes.codingame;
 
 import java.util.Stack;
 
